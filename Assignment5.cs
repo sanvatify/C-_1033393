@@ -11,7 +11,6 @@ namespace Assignment5
         static string firstName; static string secondName; static string inputString;
         static void Main(string[] args)
         {
-            DateTime amarnath;
             option();
             Console.Read();
         }
